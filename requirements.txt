@@ -1,0 +1,5 @@
+pylint
+pytest
+lint
+black
+pytest-cov
